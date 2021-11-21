@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Semih</h1>
+<h1 align="center">Hi 👋, I'm Aykut</h1>
 <h3 align="center">Software Test Engineer</h3>
 
 - 🌱 I’m currently learning **Selenium, Karate, Jenkins, Docker**
