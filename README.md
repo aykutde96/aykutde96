@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning **Selenium, Karate, Jenkins, Docker**
 
 - 📫 How to reach me:
+<br />
  **aykutdenizci@outlook.com**
+ <br />
+
  **https://www.linkedin.com/in/aykut-denizci**
 
 - 📄 Know about my experiences [https://aykutdenizci.medium.com/](https://aykutdenizci.medium.com/)
