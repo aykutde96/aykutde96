@@ -8,9 +8,7 @@
  <br />
  
  - **aykutdenizci@outlook.com**
- 
  <br />
-
  - **https://www.linkedin.com/in/aykut-denizci**
 
 - 📄 Know about my experiences [https://aykutdenizci.medium.com/](https://aykutdenizci.medium.com/)
