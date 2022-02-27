@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **Selenium, Karate, Jenkins, Docker**
 
-- 📫 How to reach me:
+<h3 align="left">- 📫 How to reach me:</h3>
 
- 
+ <a href="https://www.outlook.live.com/" target="_blank"> <img src="https://brandlogos.net/wp-content/uploads/2020/03/Microsoft-Outlook-logo.png" alt="docker" width="40" height="40"/> </a> 
  - **aykutdenizci@outlook.com**
- 
+ <p align="left">
 
- - **https://www.linkedin.com/in/aykut-denizci**
-
-- 📄 Know about my experiences [https://aykutdenizci.medium.com/](https://aykutdenizci.medium.com/)
+ <a href="https://aykutdenizci.medium.com" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="semihsaydamz" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/aykut-denizci" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="semihsaydamz" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">- Languages and Tools:</h3>
