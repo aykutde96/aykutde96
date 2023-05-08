@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aykut</h1>
 <h3 align="center">Software Test Engineer</h3>
 
-- 🌱 I’m currently learning **Selenium, Karate, Docker, Jenkins ...**
+- 🌱 I’m currently learning **Playwright, Karate ...**
 
 - 📫 How to reach me **aykutdenizci@outlook.com**
 
